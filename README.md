@@ -10,9 +10,9 @@ This project is a starting point for a Flutter application.
 
 ## Screenshot
 <p >
-  <img src="Screenshot_0.jpg" width="246" height="555">
-  <img src="Screenshot_1.jpg" width="246" height="555">
-  <img src="Screenshot_2.jpg" width="246" height="555">
+  <img src="Screenshot_0.jpg" width="246" height="455">
+  <img src="Screenshot_1.jpg" width="246" height="455">
+  <img src="Screenshot_2.jpg" width="246" height="455">
 </p>
 
 A few resources to get you started if this is your first Flutter project:
