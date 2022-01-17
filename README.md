@@ -9,11 +9,11 @@ Model developed and trained with https://teachablemachine.withgoogle.com/
 This project is a starting point for a Flutter application.
 
 ## Screenshot
-
-![image](Screenshot_0.jpg = 250x250) 
-![image](Screenshot_1.jpg = 250x250) 
-![image](Screenshot_2.jpg = 250x250) 
-
+<p >
+  <img src="Screenshot_0.jpg" width="256" height="455">
+  <img src="Screenshot_1.jpg" width="256" height="455">
+  <img src="Screenshot_2.jpg" width="256" height="455">
+</p>
 
 A few resources to get you started if this is your first Flutter project:
 
