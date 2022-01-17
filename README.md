@@ -10,9 +10,9 @@ This project is a starting point for a Flutter application.
 
 ## Screenshot
 
-![](Screenshot_0.jpg) 
-![](Screenshot_1.jpg) 
-![](Screenshot_2.jpg) 
+![image](Screenshot_0.jpg = 250x250) 
+![image](Screenshot_1.jpg = 250x250) 
+![image](Screenshot_2.jpg = 250x250) 
 
 
 A few resources to get you started if this is your first Flutter project:
