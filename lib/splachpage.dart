@@ -17,7 +17,7 @@ class Splashpage extends StatelessWidget {
               padding: const EdgeInsets.fromLTRB(10, 40, 10, 40),
               child: const Text(
                 "DETECTOR DE MASCARILLAS",
-                style: TextStyle(fontSize: 22),
+                style: TextStyle(fontSize: 20),
                 textAlign: TextAlign.center,
               ),
             ),
@@ -25,14 +25,6 @@ class Splashpage extends StatelessWidget {
             Container(
               padding: const EdgeInsets.fromLTRB(20, 20, 20, 20),
               child: const CircularProgressIndicator(color: Colors.amber),
-            ),
-            Container(
-              padding: const EdgeInsets.fromLTRB(20, 20, 20, 20),
-              child: const Text(
-                "By DevJPPC",
-                style: TextStyle(fontSize: 20, letterSpacing: 2),
-                textAlign: TextAlign.center,
-              ),
             ),
           ],
         ),
