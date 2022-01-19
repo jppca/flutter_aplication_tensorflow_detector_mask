@@ -9,18 +9,25 @@ Model developed and trained with https://teachablemachine.withgoogle.com/
 This project is a starting point for a Flutter application.
 
 ## Screenshots
-<p>
+      
+  <p>
   SplachScreen
+  </p>
+  <br>
   <img src="Screenshot_0.jpg" width="246" height="455">
-</p>
-<p>
+  <br>
+  <p>
   Screen test 1  
+  </p>
+  <br>
   <img src="Screenshot_1.jpg" width="246" height="455">
-</p>
-<p>
+  <br>
+  <p>
   Screen test 2
+  </p>
+  <br> 
   <img src="Screenshot_2.jpg" width="246" height="455">
-</p>
+  <br>
 
 A few resources to get you started if this is your first Flutter project:
 
