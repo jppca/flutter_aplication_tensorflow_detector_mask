@@ -10,24 +10,33 @@ This project is a starting point for a Flutter application.
 
 ## Screenshots
       
-  <p>
-  SplachScreen
-  </p>
-  <br>
-  <img src="Screenshot_0.jpg" width="246" height="455">
-  <br>
-  <p>
-  Screen test 1  
-  </p>
-  <br>
-  <img src="Screenshot_1.jpg" width="246" height="455">
-  <br>
-  <p>
-  Screen test 2
-  </p>
-  <br> 
-  <img src="Screenshot_2.jpg" width="246" height="455">
-  <br>
+<table>
+<tr>
+  <td> 
+     <p>
+      SplachScreen
+     </p>
+        <br>
+           <img src="Screenshot_0.jpg" width="246" height="455">
+        <br>
+   </td>
+   <td> 
+     <p>
+       Screen test 1  
+     </p>
+        <br>
+           <img src="Screenshot_1.jpg" width="246" height="455">
+        <br>
+   </td>
+   <td> 
+     <p>
+       Screen test 2  
+     </p>
+        <br>
+           <img src="Screenshot_2.jpg" width="246" height="455">
+        <br>
+   </td>
+ </table>
 
 A few resources to get you started if this is your first Flutter project:
 
